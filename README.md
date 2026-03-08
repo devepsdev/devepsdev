@@ -11,7 +11,7 @@ Desarrollador Full Stack & DevOps con triple formación técnica (ASIR + DAM + D
 | [**Gafasfy**](https://deveps.ddns.net/gafasviajeras) | Spring Boot 3 · React 19 · Tailwind CSS | App fullstack para documentar aventuras viajeras con captura de fotos y GPS |
 | [**Notesfy**](https://deveps.ddns.net/notes) | Angular 20 · Spring Boot 3.5 · TypeScript · MySQL | App de notas con autenticación JWT, categorías, búsqueda con filtros, paginación y formularios reactivos |
 | [**Movies Manager**](https://deveps.ddns.net/movies) | Angular · Express · Node.js · MongoDB | Catálogo de películas con stack MEAN completo |
-| [**Reserva**](https://github.com/devepsdev/reserva) | Next.js · Prisma · PostgreSQL | Sistema de reservas para restaurante con panel de administración |
+| [**Reserva**](https://reserva-deveps.vercel.app) | Next.js · Prisma · PostgreSQL | Sistema de reservas para restaurante con panel de administración |
 
 Todos los proyectos están desplegados en un **servidor propio** (Orange Pi 5 con Armbian Linux) que configuro y mantengo 24/7 con Apache reverse proxy, SSL/HTTPS y Docker.
 
