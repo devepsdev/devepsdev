@@ -4,14 +4,14 @@ Desarrollador Full Stack & DevOps con triple formación técnica (ASIR + DAM + D
 
 ## 🚀 Proyectos en producción
 
-| Proyecto | Stack | Descripción |
-|----------|-------|-------------|
-| [**Abasta**](https://deveps.ddns.net/abasta) | Spring Boot 3 · React · TypeScript · MySQL · JWT · JUnit | Plataforma B2B para gestión de proveedores, productos y pedidos. +400 commits, +40 tests, API documentada con Swagger |
-| [**Facialy**](https://deveps.ddns.net/facialy/) | Django · React · OpenCV · PostgreSQL · Docker · GitHub Actions | Sistema de reconocimiento facial con CI/CD automatizado y Docker multi-stage build |
-| [**Gafasfy**](https://deveps.ddns.net/gafasviajeras) | Spring Boot 3 · React 19 · Tailwind CSS | App fullstack para documentar aventuras viajeras con captura de fotos y GPS |
-| [**Notesfy**](https://deveps.ddns.net/notes) | Angular 20 · Spring Boot 3.5 · TypeScript · MySQL | App de notas con autenticación JWT, categorías, búsqueda con filtros, paginación y formularios reactivos |
-| [**Movies Manager**](https://deveps.ddns.net/movies) | Angular · Express · Node.js · MongoDB | Catálogo de películas con stack MEAN completo |
-| [**Reserva**](https://reserva-deveps.vercel.app) | Next.js · Prisma · PostgreSQL | Sistema de reservas para restaurante con panel de administración |
+| Proyecto | Stack | Descripción | Enlaces |
+|----------|-------|-------------|---------|
+| **Abasta** | Spring Boot 3 · React · TypeScript · MySQL · JWT · JUnit | Plataforma B2B para gestión de proveedores, productos y pedidos. +400 commits, +40 tests | [Web](https://deveps.ddns.net/abasta) · [API Docs](https://deveps.ddns.net/abasta/swagger-ui/index.html) · [Repo](https://github.com/abastaplatform/abasta) |
+| **Facialy** | Django · React · OpenCV · PostgreSQL · Docker · GitHub Actions | Sistema de reconocimiento facial con CI/CD automatizado y Docker multi-stage build | [Web](https://deveps.ddns.net/facialy/) · [Repo](https://github.com/devepsdev/facialy) |
+| **Gafasfy** | Spring Boot 3 · React 19 · Tailwind CSS | App fullstack para documentar aventuras viajeras con captura de fotos y GPS | [Web](https://deveps.ddns.net/gafasviajeras) · [Repo](https://github.com/devepsdev/gafasfy) |
+| **Notesfy** | Angular 20 · Spring Boot 3.5 · TypeScript · MySQL | App de notas con autenticación JWT, categorías, búsqueda con filtros y paginación | [Web](https://deveps.ddns.net/notes) · [Repo](https://github.com/devepsdev/notesfy) |
+| **Movies Manager** | Angular · Express · Node.js · MongoDB | Catálogo de películas con stack MEAN completo | [Web](https://deveps.ddns.net/movies) · [Repo](https://github.com/devepsdev/moviesfy) |
+| **Reserva** | Next.js · Prisma · PostgreSQL | Sistema de reservas para restaurante con panel de administración | [Web](https://reserva-deveps.vercel.app) · [Repo](https://github.com/devepsdev/reserva) |
 
 Todos los proyectos están desplegados en un **servidor propio** (Orange Pi 5 con Armbian Linux) que configuro y mantengo 24/7 con Apache reverse proxy, SSL/HTTPS y Docker.
 
