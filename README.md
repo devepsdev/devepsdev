@@ -6,7 +6,7 @@ Desarrollador Full Stack & DevOps con triple formación técnica (ASIR + DAM + D
 
 | Proyecto | Stack | Descripción | Enlaces |
 |----------|-------|-------------|---------|
-| **Pedidoo** | Spring Boot 3.5 · Angular 19 · TypeScript · IA · MCP · n8n · Docker · MySQL · JWT · JUnit | Plataforma B2B para gestión de proveedores, productos y pedidos con IA integrada. +40 tests | [Web](https://pedidoo.deveps.dev/) · [API Docs](https://pedidoo.deveps.dev/swagger-ui/index.html) · [Repo](https://github.com/devepsdev/pedidoo) |
+| **PedidAI** | Spring Boot 3.5 · Angular 19 · TypeScript · IA · MCP · n8n · Docker · MySQL · JWT · JUnit | Plataforma B2B para gestión de proveedores, productos y pedidos con IA integrada. +40 tests | [Web](https://pedidai,es/) · [API Docs](https://pedidai.es/swagger-ui/index.html) · [Repo](https://github.com/devepsdev/pedidai) |
 | **Facialy** | Django · React · OpenCV · PostgreSQL · Docker · GitHub Actions | Sistema de reconocimiento facial con CI/CD automatizado y Docker multi-stage build | [Web](https://deveps.ddns.net/facialy/) · [Repo](https://github.com/devepsdev/facialy) |
 | **Gafasfy** | Spring Boot 3 · React 19 · Tailwind CSS | App fullstack para documentar aventuras viajeras con captura de fotos y GPS | [Web](https://deveps.ddns.net/gafasviajeras) · [Repo](https://github.com/devepsdev/gafasfy) |
 | **Notesfy** | Angular 20 · Spring Boot 3.5 · TypeScript · MySQL | App de notas con autenticación JWT, categorías, búsqueda con filtros y paginación | [Web](https://deveps.ddns.net/notes) · [Repo](https://github.com/devepsdev/notesfy) |
