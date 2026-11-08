@@ -6,10 +6,8 @@ Desarrollador Full Stack & DevOps con triple formación técnica (ASIR + DAM + D
 
 | Proyecto | Stack | Descripción | Enlaces |
 |----------|-------|-------------|---------|
-| **Facialy** | Django · React · OpenCV · PostgreSQL · Docker · GitHub Actions | Sistema de reconocimiento facial con CI/CD automatizado y Docker multi-stage build | [Web](https://deveps.ddns.net/facialy/) · [Repo](https://github.com/devepsdev/facialy) |
-| **Gafasfy** | Spring Boot 3 · React 19 · Tailwind CSS | App fullstack para documentar aventuras viajeras con captura de fotos y GPS | [Web](https://deveps.ddns.net/gafasviajeras) · [Repo](https://github.com/devepsdev/gafasfy) |
-| **Notesfy** | Angular 20 · Spring Boot 3.5 · TypeScript · MySQL | App de notas con autenticación JWT, categorías, búsqueda con filtros y paginación | [Web](https://deveps.ddns.net/notes) · [Repo](https://github.com/devepsdev/notesfy) |
-| **Movies Manager** | Angular · Express · Node.js · MongoDB | Catálogo de películas con stack MEAN completo | [Web](https://deveps.ddns.net/movies) · [Repo](https://github.com/devepsdev/moviesfy) |
+| **PedidAI** | Spring Boot · Angular · MySQL · Mistral AI · n8n · Docker | Plataforma de compras para bares y restaurantes: lee albaranes, compara proveedores, avisa de subidas de precio y prepara pedidos por chat con IA | [Web](https://pedidai.es) · [Repo](https://github.com/devepsdev/pedidai) |
+| **Facialy** | Django · React · OpenCV · PostgreSQL · Docker · GitHub Actions | Sistema de reconocimiento facial con CI/CD automatizado y Docker multi-stage build | [Web](https://facialy.deveps.dev) · [Repo](https://github.com/devepsdev/facialy) |
 | **Reserva** | Next.js · Prisma · PostgreSQL | Sistema de reservas para restaurante con panel de administración | [Web](https://reserva-deveps.vercel.app) · [Repo](https://github.com/devepsdev/reserva) |
 
 Todos los proyectos están desplegados en un **servidor propio** (Orange Pi 5 con Armbian Linux) que configuro y mantengo 24/7 con Apache reverse proxy, SSL/HTTPS y Docker.
@@ -25,6 +23,6 @@ Todos los proyectos están desplegados en un **servidor propio** (Orange Pi 5 co
 
 ## 📫 Contacto
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-deveps.ddns.net-blue?style=flat-square)](https://deveps.ddns.net)
+[![Portfolio](https://img.shields.io/badge/Portfolio-deveps.ddns.net-blue?style=flat-square)](https://portfolio.deveps.dev/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Enrique_Pérez-0A66C2?style=flat-square&logo=linkedin)](https://linkedin.com/in/enrique-perez-sanchez)
-[![Email](https://img.shields.io/badge/Email-devepsdev@gmail.com-EA4335?style=flat-square&logo=gmail)](mailto:devepsdev@gmail.com)
+[![Email](https://img.shields.io/badge/Email-devepsdev@gmail.com-EA4335?style=flat-square&logo=gmail)](mailto:deveps@deveps.dev)
